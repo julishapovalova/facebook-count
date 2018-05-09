@@ -9,8 +9,8 @@ import org.testng.annotations.Test;
 
 public class BaseTest {
     WebDriver driver;
-    final String EMAIL = "julianna197@gmail.com";
-    final String PASSWORD = "Juliavfvfgf122395";
+    final String EMAIL = "??????";
+    final String PASSWORD = "???????????";
     final String URL = "https://www.facebook.com/";
 
     @BeforeTest(alwaysRun = true)
